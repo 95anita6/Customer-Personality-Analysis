@@ -37,7 +37,7 @@ Place
 - Number of purchases made directly in stores 
 - NumWebVisitsMonth: Number of visits to company’s web site in the last month
 
-# Given the above information and different vizualisation after cleaning the data, below are the insights derived from the data:
+### Given the above information and different vizualisation after cleaning the data, below are the insights derived from the data:
 
 - Using the correlation matrix, a lot of variables seem to be correlated to each other. Income seems to be a lot correlated to mean amount spent on differnt products. Also the   mean amount spent on different product seems to have a positive correlation with each other. The mean amount spent on wines has a high positive correlation with number of web purchases, catalog purchases and store purchases. The mean amount spent on meat products has a high positive correlation with number of catalog purchases. 
 
